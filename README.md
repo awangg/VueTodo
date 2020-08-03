@@ -1,7 +1,6 @@
 # todo-app
 
-Vue.js Todo App.
-Tutorial: https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2
+Vue.js Todo App. Built using [this](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2) tutorial.
 
 ## Build Setup
 
